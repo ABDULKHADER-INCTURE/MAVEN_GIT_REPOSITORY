@@ -3,6 +3,14 @@
   <groupId>com.codebind</groupId>
   <artifactId>maven-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  	 <repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+  
   <dependencies>
    <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
@@ -20,8 +28,13 @@
     <groupId>com.relevantcodes</groupId>
     <artifactId>extentreports</artifactId>
     <version>2.41.2</version>
-</dependency>
-   
+   </dependency>
+  
+   	<dependency>
+	    <groupId>com.github.ABDULKHADER-INCTURE</groupId>
+	    <artifactId>GitConfigurationRepository</artifactId>
+	    <version>-SNAPSHOT</version>
+	</dependency>
    
   </dependencies>
 </project>
