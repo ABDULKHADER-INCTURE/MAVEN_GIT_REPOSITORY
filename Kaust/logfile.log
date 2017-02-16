@@ -1,0 +1,36 @@
+2016-12-05 18:42:21,087 INFO  [Log] **************************************************************************************** 
+2016-12-05 18:42:21,088 INFO  [Log] **************************************************************************************** 
+2016-12-05 18:42:21,088 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-12-05 18:42:21,088 INFO  [Log] **************************************************************************************** 
+2016-12-05 18:42:21,088 INFO  [Log] **************************************************************************************** 
+2016-12-05 18:42:22,222 INFO  [Log] Excel sheet opened 
+2016-12-05 18:42:22,222 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-12-05 18:42:29,720 INFO  [Log] New driver instantiated 
+2016-12-05 18:42:29,728 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-12-05 18:42:39,112 INFO  [Log] Web application launched successfully 
+2016-12-05 18:42:40,709 INFO  [Log] page loades in the browser 
+2016-12-05 18:42:40,983 INFO  [Log] Username displayed is true  
+2016-12-05 18:42:40,983 INFO  [Log] Username Enabled  is true  
+2016-12-05 18:42:40,983 INFO  [Log] Username text box is found on the Login Page 
+2016-12-05 18:42:41,084 INFO  [Log] billorr is entered in UserName text box 
+2016-12-05 18:42:41,205 INFO  [Log] Password text box is found on the Login page 
+2016-12-05 18:42:41,325 INFO  [Log] Kaust.1234 is entered in Password text box 
+2016-12-05 18:42:41,399 INFO  [Log] Submit button is found on the Login page 
+2016-12-05 18:43:02,674 INFO  [Log] Click action is performed on Submit button 
+2016-12-05 18:43:02,762 INFO  [Log] page loades in the browser 
+2016-12-05 18:50:45,785 ERROR [Log] UserName text box is not found on the Login Page 
+2016-12-05 18:50:50,162 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=54.0.2840.99)
+  (Driver info: chromedriver=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'Jyoti-PC', ip: '10.152.27.73', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\Jyoti\AppData\Local\Temp\scoped_dir5304_18166}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=54.0.2840.99, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 907e5f02d56be125c6d21635217e5589 
+2016-12-05 18:50:50,604 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-12-05 18:50:50,604 INFO  [Log] X 
+2016-12-05 18:50:50,604 INFO  [Log] X 
+2016-12-05 18:50:50,604 INFO  [Log] X 
+2016-12-05 18:50:50,604 INFO  [Log] X 
